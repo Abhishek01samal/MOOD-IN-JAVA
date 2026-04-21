@@ -161,3 +161,4 @@ Without the jar, the camera panel shows an animated simulator instead.
 **By Abhishek Samal**
 
 Tech: Java · AWT · MySQL · JDBC
+# MOOD-IN-JAVA
