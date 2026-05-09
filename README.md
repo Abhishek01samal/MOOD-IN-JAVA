@@ -156,7 +156,7 @@ Without the jar, the camera panel shows an animated simulator instead.
 
 ---
 
-## Credits
+# Credits
 
 **By Abhishek Samal**
 
