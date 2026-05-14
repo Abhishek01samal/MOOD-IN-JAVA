@@ -73,7 +73,6 @@ MoodTune/
 ## Getting Started
 
 ### 1. Database Setup
-
 ```bash
 # Log in to MySQL
 mysql -u root -p
