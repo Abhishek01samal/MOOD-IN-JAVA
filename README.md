@@ -68,8 +68,7 @@ MoodTune/
 - Each card shows: category icon, title, platform, star rating bar
 - Click any card to open the link in your browser
 
----
-
+Setup Management 
 ## Getting Started
 
 ### 1. Database Setup
