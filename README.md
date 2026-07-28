@@ -56,7 +56,7 @@ MoodTune/
 - Enter your name
 - Choose content categories (Music / Movies / Anime / Books / Games / Podcasts)
 - Dark gradient card UI with glow orbs
-
+-It works on system prompt
 ### Screen 2 — Mood Selection
 - Animated camera preview (mock simulator or real Sarxos webcam)
 - 7 mood buttons: 😄 Happy · 😢 Sad · 😠 Angry · 😲 Surprised · 😐 Neutral · 😨 Fearful · 🤢 Disgusted
@@ -139,8 +139,6 @@ To enable live webcam capture:
 3. Add them to the classpath when compiling and running.
 
 Without the jar, the camera panel shows an animated simulator instead.
-
----
 
 ## Extending MoodTune
 
