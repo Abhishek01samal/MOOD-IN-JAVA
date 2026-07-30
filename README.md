@@ -140,7 +140,7 @@ To enable live webcam capture:
 
 Without the jar, the camera panel shows an animated simulator instead.
 
-## Extending MoodTune
+# Extending MoodTune Future 
 
 | Goal                          | What to change                                             |
 |-------------------------------|-----------------------------------------------------------|
