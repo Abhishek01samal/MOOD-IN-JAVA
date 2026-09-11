@@ -65,7 +65,7 @@ MoodTune/
 ### Screen 3 — Results Dashboard
 - Mood pill badge with colour-coded indicator
 - Scrollable grid of recommendation cards
-- Each card shows: category icon, title, platform, star rating bar
+- Each card shows: category icon, title, platform, star rating bar and manage
 - Click any card to open the link in your browser
 
 Setup Management 
