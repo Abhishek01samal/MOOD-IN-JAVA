@@ -9,7 +9,7 @@ MoodTune is a native Java desktop application that detects your mood (via camera
 
 ---
 sabjfbijb
-## Technology Stack
+## Technology Stackanibicb
 
 | Layer              | Technology                          |
 |--------------------|-------------------------------------|
