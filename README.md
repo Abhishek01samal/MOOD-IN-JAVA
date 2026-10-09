@@ -148,7 +148,7 @@ Without the jar, the camera panel shows an animated simulator instead.
 | Add a new category            | Add to `catNames` / `catLabels` in `WelcomeScreen.java`, seed `schema.sql` |
 | Change colours                | Edit constants in `Styles.java`                            |
 | More recommendations shown    | Change `recommendationCount` default in `MoodTuneApp.java`|
-| Add real AI mood detection    | Replace the mood buttons in `MoodSelectScreen` with calls to your AI endpoint using `CameraService.captureFrameAsBase64()` |
+| Add real AI mood detection    | Replace the mood buttons in `MoodSelectScreen` with calls to your AI endpoint using it
 
 ---
 
