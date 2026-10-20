@@ -126,7 +126,7 @@ java -cp "bin:lib/mysql-connector-java.jar" com.moodtune.ui.MoodTuneApp
 
 ## Demo Mode (No MySQL Required)
 
-If MySQL is not running or the JDBC jar is missing, MoodTune automatically switches to **Demo Mode** — all 7 moods still work with hardcoded sample data. No crash, no error dialog.
+If MySQL is not running or the JDBC jar is missing, MoodTune automatically switches to **Demo Mode** — all 7 moods still work with hardcoded sample data. No crash, no error dialog,to make it rest .
 
 ---
 
