@@ -5,7 +5,7 @@
 
 ## Overview
 
-MoodTune is a native Java desktop application that detects your mood (via camera or manual selection) and instantly recommends personalised **Music, Movies, Anime, Books, Games, and Podcasts** from a MySQL database — all wrapped in a sleek dark-mode AWT interface in the frontend.
+MoodTune is a native Java desktop application that detects your mood (via camera or manual selection) and instantly recommends personalised **Music, Movies, Anime, Books, Games, and Podcasts** from a MySQL database — all wrapped in a sleek dark-mode AWT interface in the frontend to make it scale.
 
 ---
 
